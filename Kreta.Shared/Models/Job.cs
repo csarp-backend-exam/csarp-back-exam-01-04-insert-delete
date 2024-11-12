@@ -1,4 +1,4 @@
-﻿namespace Kreata.Backend.Datas.Entities
+﻿namespace Kreta.Shared.Models
 {
     public class Job
     {

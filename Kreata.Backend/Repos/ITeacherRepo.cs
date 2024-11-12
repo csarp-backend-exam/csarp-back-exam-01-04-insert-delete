@@ -1,4 +1,4 @@
-﻿using Kreata.Backend.Datas.Entities;
+﻿using Kreta.Shared.Models;
 using Kreta.Shared.Responses;
 
 namespace Kreata.Backend.Repos
